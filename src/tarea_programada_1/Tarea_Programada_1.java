@@ -19,18 +19,14 @@ public class Tarea_Programada_1 {
 
 
 
-// ahora si deberia servir
-
-
-// hola de maruchan
-
-//hola de John
-
-
-// la pregunta del millon, como lo hacemos XD
-
-
-//hola yo
+        
+        
+        
+        
+        
+        
+        
+        
 
     }
     
